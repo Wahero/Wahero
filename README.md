@@ -3,6 +3,7 @@
 - 🔭 什麼都不是的默默無名華英雄 , 不懂 Github, Python 的20年老碼農
 - 🌱 喜歡玩 Steam, Switch, Zelda, 打羽毛球, 攝影, 種花, 還有各種各類不能盡錄的興趣...
 
+- 👯 準備做的項目: ESP32, Bambu 3D, 打賞系統, 安全掃瞄器.....
 
 <!--
 **Wahero/Wahero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
