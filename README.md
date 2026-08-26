@@ -1,3 +1,9 @@
+<img width="1198" height="369" alt="image" src="https://github.com/user-attachments/assets/f9f55137-25cd-490c-9786-31a036d13fdc" />
+
+
+
+
+
 ## Hi there , 這裡是華英雄之金庫👋
 
 - 🔭 什麼都不是的默默無名華英雄 , 不懂 Github, Python 的20年老碼農
