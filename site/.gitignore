@@ -1,0 +1,19 @@
+# —— 依賴 / 建置產物 ——
+node_modules/
+dist/
+.vite/
+.output/
+out/
+
+# —— 環境變數 / 密鑰 ——
+.env
+.env.*
+*.local
+
+# —— 編輯器 / 系統 ——
+.DS_Store
+Thumbs.db
+*.log
+
+# —— WorkBuddy 內部資料（含 memory 記憶，勿上傳到公開倉庫）——
+.workbuddy/

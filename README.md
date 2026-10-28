@@ -24,6 +24,10 @@ Upcoming projects: ESP32, Bambu 3D printing, a tipping system, and a security sc
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 
+## 個人網站
+
+🌐 <https://wahero.github.io/> — 原始碼在 [`site/`](site/)，push 到 `main` 會自動部署。
+
 <!--
 **Wahero/Wahero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
