@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 
-// 使用者站台：https://wahero.github.io/
-// 根網域發佈，base 用 '/'（若改成專案頁 /repo/ 才需調整）。
+// 專案頁：https://wahero.github.io/Wahero/
+// 倉庫不是 wahero.github.io，所以 base 必須等於倉庫名（結尾加斜線）。
 export default defineConfig({
-  base: '/',
+  base: '/Wahero/',
 })
